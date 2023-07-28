@@ -1,8 +1,6 @@
 Hello tech people!
 I am Sehaj, currently a student at Chandigarh University.
-My tech stack is of a Full Stack Web Developer
-I know how to code in javascript, C and C++
-Also, I am proficient in React js, Node js
+My tech stack includes ReactJS, NodeJS and ExpressJS
 Hope you enjoy your visit on my profile!
 <!---
 sehajs5/sehajs5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
